@@ -1,2 +1,3 @@
 git cnfig --global user.name "bharath"
+git config --global user.email "pb.soft1992@gmail.com"
 
