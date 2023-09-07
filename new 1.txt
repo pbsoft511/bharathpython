@@ -1,0 +1,2 @@
+git cnfig --global user.name "bharath"
+
